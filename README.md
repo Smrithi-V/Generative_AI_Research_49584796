@@ -7,28 +7,27 @@ This repository contains all materials, drafts, analyses, and supplementary file
 
 ## Project Structure
 
-
-C:\USERS\SMRIT\ONEDRIVE\DOCUMENTS\GITHUB\GENERATIVE_AI_RESEARCH_49584796
-|   README.md
-|
-+---Additional Materials
-|       2nd media file.png
-|       media file.png
-|
-+---Drafts and Reports
-|       FINAL PAPER V9999.docx
-|       proposal ABSOLUTE FINAL.docx
-|
-+---Literature Review documents
-|       hartmann-2000-games-in-ai-research.pdf
-|
-+---Qualitative Analysis
-|       consent form.txt
-|       reports.docx
-|       reports.pdf
-|
-\---Quantitative Analysis
-        python.py
+    GENERATIVE_AI_RESEARCH_49584796
+    |   README.md
+    |
+    +---Additional Materials
+    |       2nd media file.png
+    |       media file.png
+    |
+    +---Drafts and Reports
+    |       FINAL PAPER V9999.docx
+    |       proposal ABSOLUTE FINAL.docx
+    |
+    +---Literature Review documents
+    |       hartmann-2000-games-in-ai-research.pdf
+    |
+    +---Qualitative Analysis
+    |       consent form.txt
+    |       reports.docx
+    |       reports.pdf
+    |
+    \---Quantitative Analysis
+            python.py
 
 
 
